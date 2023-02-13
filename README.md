@@ -21,7 +21,7 @@
  </div>
  
  <hr>
- <div style="display: inline_block">
+ <div style="float:left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carinagouveia&layout=compact&langs_count=7&theme=midnight-purple"/>
  <div style="display: inline_block">
   <a href="https://github.com/carinagouveia">

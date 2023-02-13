@@ -8,8 +8,7 @@
 <h1>Olá, Devs</h1> 
 <h5>Tenho 28 anos, moro em Lins/SP sou apaixonada por programação e música. Sou iniciante no universo da programação, e atualmente venho dedicando meu estudos na área de automação de testes</h5> 
 
-<h1>Tecnologias e ferramentas</h1> 
-<h3> 👩🏻‍💻Tecnologias </h3>
+<h3>Tecnologias e ferramentas</h3>
 <div style="display: inline_block">
   <img align="center" alt="-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -22,7 +21,9 @@
  </div>
  
  <hr>
+ <div style="display: inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carinagouveia&layout=compact&langs_count=7&theme=midnight-purple"/>
  <div style="display: inline_block">
   <a href="https://github.com/carinagouveia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carinagouveia&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+ </div>

@@ -6,7 +6,7 @@
 </div>
 
 <h1>Olá, Devs</h1> 
-<h5>Tenho 28 anos, moro em Lins/SP sou apaixonada por programação e música. Sou iniciante no universo da programação, e atualmente venho dedicando meu estudos na área de automação de testes</h5> 
+<h5>Tenho 28 anos, moro em Lins/SP sou apaixonada por programação e novelas coreanas. Sou iniciante no universo da programação, e atualmente venho dedicando meu estudos na área de automação de testes</h5> 
 
 <h3>Tecnologias e ferramentas</h3>
 <div style="display: inline_block">

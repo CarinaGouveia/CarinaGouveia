@@ -7,20 +7,15 @@
 
 <h1>Olá, Pessoas</h1> 
 <h5> Sou a Carina, sou tecnóloga em sistemas para internet, atualmente trabalho como QA Engineer.
-Sou apaixonado por garantir a excelência em cada etapa do ciclo de vida do desenvolvimento de software, minhas principais habilidades incluem:
+Sou apaixonado por garantir a excelência em cada etapa do ciclo de vida do desenvolvimento de software, minhas principais habilidades incluem:</h5> 
 
-</br>
-📝 Criação de Cenários com Gherkin:
-Como especialista em QA, tenho expertise na elaboração de cenários utilizando a linguagem Gherkin. Essa habilidade não apenas simplifica a documentação de testes, mas também facilita a comunicação entre os membros da equipe, garantindo uma compreensão clara e concisa dos requisitos.
-</br>
-🖐️ Testes Manuais: 
-Como parte do meu papel como QA Engineer, também realizo testes manuais abrangentes, tanto em APIs quanto em aplicações web. 
-</br>
-🤖 Automação Eficiente:
-Desenvolvo scripts robustos e eficientes para testes automatizados utilizando Cypress, proporcionando confiabilidade e rapidez na verificação da qualidade do software.
-</br>
-🚀 Performance em Foco:
-Conduzo testes de performance de ponta a ponta com K6, garantindo que as aplicações atendam às expectativas de desempenho mesmo nas condições mais desafiadoras.</h5> 
+<h5> 📝 Criação de Cenários com Gherkin: Como especialista em QA, tenho expertise na elaboração de cenários utilizando a linguagem Gherkin. Essa habilidade não apenas simplifica a documentação de testes, mas também facilita a comunicação entre os membros da equipe, garantindo uma compreensão clara e concisa dos requisitos.</h5> 
+
+<h5> 🖐️ Testes Manuais: Como parte do meu papel como QA Engineer, também realizo testes manuais abrangentes, tanto em APIs quanto em aplicações web. </h5> 
+
+<h5> 🤖 Automação Eficiente: Desenvolvo scripts robustos e eficientes para testes automatizados utilizando Cypress, proporcionando confiabilidade e rapidez na verificação da qualidade do software.</h5> 
+
+<h5> 🚀 Performance em Foco: Conduzo testes de performance de ponta a ponta com K6, garantindo que as aplicações atendam às expectativas de desempenho mesmo nas condições mais desafiadoras.</h5> 
 
 <h3>Tecnologias e ferramentas</h3>
 <div style="display: inline_block">

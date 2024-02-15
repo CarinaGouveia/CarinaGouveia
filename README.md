@@ -5,7 +5,7 @@
    <a href="https://www.linkedin.com/in/carinagouveia-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<h1>Olá, Devs</h1> 
+<h1>Olá, Pessoas</h1> 
 <h5>Tenho 28 anos, moro em Lins/SP sou apaixonada por programação e novelas coreanas. Sou iniciante no universo da programação, e atualmente venho dedicando meu estudos na área de automação de testes</h5> 
 
 <h3>Tecnologias e ferramentas</h3>

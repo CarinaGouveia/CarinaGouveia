@@ -5,8 +5,8 @@
    <a href="https://www.linkedin.com/in/carinagouveia-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<h1>Olá, Pessoas</h1> 
-<h5> Sou a Carina, tecnóloga em sistemas para internet, atualmente trabalho como QA Engineer.
+<h1>Olá, Pessoal</h1> 
+<h5> Meu nome é Carina, sou tecnóloga em sistemas para internet, atualmente trabalho como QA Engineer.
 Sou apaixonado por garantir a excelência em cada etapa do ciclo de vida do desenvolvimento de software, minhas principais habilidades incluem:</h5> 
 
 <h5> 📝 Criação de Cenários com Gherkin: Como especialista em QA, tenho expertise na elaboração de cenários utilizando a linguagem Gherkin. Essa habilidade não apenas simplifica a documentação de testes, mas também facilita a comunicação entre os membros da equipe, garantindo uma compreensão clara e concisa dos requisitos.</h5> 
